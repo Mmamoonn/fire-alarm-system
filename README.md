@@ -13,6 +13,7 @@ fire-alarm-system/
 │   ├── hardware-photos/
 │   │   ├── hardware_build.jpeg      ← Circuit build photo
 │   │   └── hardware_working.jpeg    ← Circuit in operation (LED ON)
+|   |   └── demo.mp4                 ← Demonstration video
 │   └── README.md                    ← Analog implementation details
 │
 ├── arduino-simulation/              ← Arduino + Gas Sensor (Tinkercad)
