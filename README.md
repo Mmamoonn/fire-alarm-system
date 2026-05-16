@@ -61,9 +61,8 @@ See the [LICENSE](LICENSE) file for full details.
 ## 👤 Author
 
 **Mamoon**
-Electronics Engineering Student
+Robotics Engineering Student
 
 ## 🙏 Acknowledgements
 
-- Course Instructor: **Engr. Fazeel Abbas**
 - Simulation Tool: [Autodesk Tinkercad](https://www.tinkercad.com)
