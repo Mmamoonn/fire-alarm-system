@@ -129,12 +129,6 @@ arduino-simulation/
 
 ---
 
-## 🔗 Tinkercad Project Link
-
-> *(Paste your Tinkercad shared project URL here)*
-
----
-
 ## 🔗 Related
 
 - 👉 [Analog Hardware Implementation](../analog/README.md)
